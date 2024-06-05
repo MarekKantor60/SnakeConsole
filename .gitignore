@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Snake/bin/Debug/net8.0
+/Snake/obj
+/Snake.Shared/bin/Debug/net8.0
+/Snake.Shared/obj/Debug/net8.0
+/Snake.Shared/obj
